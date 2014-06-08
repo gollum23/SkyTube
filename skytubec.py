@@ -12,7 +12,7 @@ __author__ = 'xskylarx'
 #v1.2 -> se corrige Bug al recibir simbolos como " | ' <>-_:.,
 #
 # Por favor si modificas algo haz referencia al autor.
-from pafy import Pafy
+import pafy
 import os
 import sys
  
